@@ -6,14 +6,6 @@ O sistema permite realizar operações de **cadastro**, **listagem**, **atualiza
 
 ---
 
-## 👨‍💻 Integrantes
-
-- **Caroline Assis Silva** – RM 557596  
-- **Enzo de Moura Silva** – RM 556532  
-- **Luis Henrique Gomes Cardoso** – RM 558883  
-
----
-
 ## ⚙️ Tecnologias Utilizadas
 
 - Java 17  
